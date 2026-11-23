@@ -14,5 +14,5 @@ export function filtrarProjetos(lista, termo = '') {
 
 
 export function contarProjetos(lista) {
-  return lista.length + 1;
+  return lista.length;
 }
